@@ -1,0 +1,12 @@
+1. "touch file.txt" = Create new file.
+2. "cat file.txt" = View file contents.
+3. "cp file1 file2" = Copy file.
+4. "mv file1 file2" = Move/Rename file.
+5. "rm file.txt" = Delete file.
+
+
+ ----------------------- EDITING FILE---------------
+ 1. "nano file.txt" = Opens the file file.txt in the Nano text editor(edit file using nano).
+ 2. "vim file.txt" = Opens the file in the Vim editor(edit file using vim).
+ 3. "echo "Hello" > file.txt" = Writes Hello into file.txt(write text into file).
+ 4. "cat file.txt >> newfile.txt" =  Copies the content of file.txt(append content to another file).
